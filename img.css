@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+  border: border-box;
+  background-color: rgba(4, 4, 195, 0.066); 
+  
+}
+header{
+  background-color: blue;
+  font-size: 30px;
+  padding: 30px;
+  text-align: center;
+  font-weight: bolder;
+}
+body{
+  background-color: rgba(4, 4, 195, 0.319);
+}
+
+.row1{
+  font-weight: bold;
+  color: blue;
+  display: inline;
+}
+
+
+#image{
+    margin: auto;
+    background: #ececec;
+    width: 100%;
+}
+.navbar-brand{
+    margin: 0 auto;
+}
+.fil{
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+}
+.eff{
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+}
+
+.filter-btn vintage-add btn btn-dark btn-block{
+  background-color: blue;
+}
+button{
+  color: white;
+}
